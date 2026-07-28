@@ -64,7 +64,7 @@ function WeatherApp() {
       </div>
 
       <footer className="absolute bottom-0 w-full text-center py-6 text-white/40 text-sm z-10 border-t border-white/5 backdrop-blur-md">
-         © 2026 Vaishnavi Vishwakarma· BadalMitra Weather Intelligence
+         © 2026 Shubham Narware· BadalMitra Weather Intelligence
       </footer>
 
       <ChatBot />
