@@ -124,11 +124,11 @@ Powered by **React 19**, **TypeScript**, **TailwindCSS v4**, and the **OpenWeath
 
 | Desktop View | Mobile View |
 |:---:|:---:|
-| <img src="https://placehold.co/450x280/0F172A/38BDF8?text=Desktop+View" width="100%"/> | <img src="https://placehold.co/220x400/0F172A/38BDF8?text=Mobile+View" width="60%"/> |
+| <img src="https://github.com/shubhamnarware67-cmd/BadalMitra/blob/main/Demo/DEMO6.png" width="100%"/> | <img src="https://github.com/shubhamnarware67-cmd/BadalMitra/blob/main/Demo/DEMO5.png" width="60%"/> |
 
 | Weather Dashboard | Forecast Section |
 |:---:|:---:|
-| <img src="https://placehold.co/450x280/0F172A/A855F7?text=AQI+Dashboard" width="100%"/> | <img src="https://placehold.co/450x280/0F172A/22C55E?text=Forecast+Cards" width="100%"/> |
+| <img src="https://github.com/shubhamnarware67-cmd/BadalMitra/blob/main/Demo/DEMO3.png" width="100%"/> | <img src="https://github.com/shubhamnarware67-cmd/BadalMitra/blob/main/Demo/DEMO4.png" width="100%"/> |
 
 > *Replace the placeholder images above with real screenshots — drop them in a `/screenshots` folder and update the paths.*
 
